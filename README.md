@@ -1,1 +1,1 @@
-# pinto
+# pintu
